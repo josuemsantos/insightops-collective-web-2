@@ -1,5 +1,6 @@
 {
   "name": "insightops-collective",
+  "homepage": "https://github.com/josuemsantos/insightops-collective-web-2.git", 
   "private": true,
   "version": "0.0.0",
   "type": "module",
