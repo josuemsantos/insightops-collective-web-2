@@ -9,4 +9,4 @@ export default defineConfig({
       tailwindcss()
     ],
     base: '/insightops-collective-web-2/'
-})
+});
