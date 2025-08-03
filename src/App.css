@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Custom styles applied to the main application */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #0F0F0F;
+  color: #E3E3E3; /* A light gray for better readability */
+}
+.bg-primary { background-color: #FFD000; }
+.bg-primary-dark { background-color: #FFB700; }
+.text-primary { color: #FFD000; }
+.text-primary-dark { color: #FFB700; }
+.text-secondary { color: #2A2929; }
+.link-primary { color: #C9C9C9; }
+.link-primary-hover { color: #E3E3E3; }
+.border-primary { border-color: #FFD000; }
+.bg-dark-1 { background-color: #0F0F0F; }
+.bg-dark-2 { background-color: #2A2929; }
+.bg-dark-3 { background-color: #444342; }
