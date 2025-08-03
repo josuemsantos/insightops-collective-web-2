@@ -8,4 +8,5 @@ export default defineConfig({
       react(), 
       tailwindcss()
     ],
+    base: '/insightops-collective-web-2/'
 })
